@@ -1,0 +1,6 @@
+*my_node*
+*/test/*
+*/cmake*
+*.user
+*.idea/*
+cmake-build-*
