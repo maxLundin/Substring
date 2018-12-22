@@ -1,3 +1,4 @@
+include_directories(${CMAKE_SOURCE_DIR})
 add_library(lib_trigram STATIC
         trigram.cpp
         trigram.h
